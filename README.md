@@ -1,5 +1,4 @@
 # 🚀 Rapido Daily – Guaranteed Commute Subscription Engine  
-### Project Clockwork
 
 Rapido Daily is a subscription-based, guaranteed commute system designed to eliminate ride uncertainty for daily office commuters.
 
